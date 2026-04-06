@@ -16,6 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=michelmanzatotebar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=michelmanzatotebar&icon=0&color=4)](https://visitcount.itsvg.in)-->
+[![](https://visitcount.itsvg.in/api?id=michelmanzatotebar&icon=0&color=4)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
