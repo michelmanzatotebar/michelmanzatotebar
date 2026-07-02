@@ -1,5 +1,5 @@
 # 🖥️ Sobre mim:
-⚙️ Engenheiro de Software<br>🖥️ Desenvolvedor Full Stack Junior<br>💡 Java · JPA · Node.js · Dart · HTML · CSS · Scrum · Bootstrap <br>💾 MySQL · PostgreSQL · Firebase<br>🌐Infraestrutura de Redes & Software (DevOps em aprendizado)
+⚙️ Engenheiro de Software<br>🖥️ Desenvolvedor Full Stack Junior<br>💡 Java · JPA · Node.js · Dart · HTML · CSS · Scrum · Bootstrap <br>💾 MySQL · PostgreSQL · Firebase<br>🌐 Infraestrutura de Redes & Software (DevOps em aprendizado)
 
 
 ## 🌐 Socials:
