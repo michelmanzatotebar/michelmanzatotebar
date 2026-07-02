@@ -1,5 +1,5 @@
 # 🖥️ Sobre mim:
-⚙️ Engenheiro de Software<br>🖥️ Desenvolvedor Full Stack<br>💡 Java · JPA · Node.js · JS · HTML · CSS · Scrum<br>💾 MySQL | PostgreSQL | Firebase
+⚙️ Engenheiro de Software<br>🖥️ Desenvolvedor Full Stack Junior<br>💡 Java · JPA · Node.js · Dart · HTML · CSS · Scrum · Redes · Bootstrap <br>💾 MySQL | PostgreSQL | Firebase
 
 
 ## 🌐 Socials:
