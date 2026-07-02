@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🖥️ Sobre mim:
 ⚙️ Engenheiro de Software<br>🖥️ Desenvolvedor Full Stack<br>💡 Java · JPA · Node.js · JS · HTML · CSS · Scrum<br>💾 MySQL | PostgreSQL | Firebase
 
 
